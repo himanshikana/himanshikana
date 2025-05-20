@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Himanshi — but you can call me <span style="color:#f39c12;">Coding Queen 👑</span></h1>
+<h1 align="center">Hi, I'm Himanshi — but you can call me <span style="color:#f39c12;"> HIMA 👑</span></h1>
 <h3 align="center">Data Analytics Enthusiast • Java Developer • Excel Wizard • Power BI Pro</h3>
 
 <p align="center">
