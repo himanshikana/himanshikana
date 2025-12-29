@@ -34,6 +34,8 @@
 - 🎬 **Movie Recommendation System**
 - 🩺 **Telemedicine & Symptom Checker App**
 - 📊 **Personal Data Dashboard (Power BI + Excel)**
+-     daily transaction system
+-   san fransisco employee
 
 ---
 
